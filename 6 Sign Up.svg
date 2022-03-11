@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="667" viewBox="0 0 375 667">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="279" height="225" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="279" height="304" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-_6_Sign_Up">
+      <rect width="375" height="667"/>
+    </clipPath>
+  </defs>
+  <g id="_6_Sign_Up" data-name="6 Sign Up" clip-path="url(#clip-_6_Sign_Up)">
+    <rect width="375" height="667" fill="#fff"/>
+    <g id="Create_an_Account" data-name="Create an Account">
+      <text id="Create_an_Account-2" data-name="Create an Account" transform="translate(188 84)" fill="#2699fb" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-87.983" y="0">Create an Account</tspan></text>
+      <text id="Lorem_dolor_sit_amet_consectetur_adipisicing_elit_sed_do." data-name="Lorem dolor sit amet consectetur adipisicing elit, sed do." transform="translate(48 104)" fill="#2699fb" font-size="14" font-family="ArialMT, Arial"><tspan x="2.935" y="13">Lorem dolor sit amet consectetur adipisicing </tspan><tspan x="103.7" y="37">elit, sed do.</tspan></text>
+    </g>
+    <g id="Input" transform="translate(48 184)" clip-path="url(#clip-path)">
+      <g id="Input-2" data-name="Input" transform="translate(-48 -181)">
+        <g id="Retângulo_135" data-name="Retângulo 135" transform="translate(48 200)" fill="#fff" stroke="#bce0fd" stroke-width="1">
+          <rect width="279" height="48" stroke="none"/>
+          <rect x="0.5" y="0.5" width="278" height="47" fill="none"/>
+        </g>
+        <text id="John_Doe" data-name="John Doe" transform="translate(68 229)" fill="#2699fb" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">John Doe</tspan></text>
+        <text id="Full_Name" data-name="Full Name" transform="translate(48 192)" fill="#2699fb" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Full Name</tspan></text>
+      </g>
+      <g id="Input-3" data-name="Input" transform="translate(-48 -102)">
+        <g id="Retângulo_135-2" data-name="Retângulo 135" transform="translate(48 200)" fill="#fff" stroke="#bce0fd" stroke-width="1">
+          <rect width="279" height="48" stroke="none"/>
+          <rect x="0.5" y="0.5" width="278" height="47" fill="none"/>
+        </g>
+        <text id="johndoe_mail.com" data-name="johndoe@mail.com" transform="translate(68 229)" fill="#2699fb" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">johndoe@mail.com</tspan></text>
+        <text id="Email" transform="translate(48 192)" fill="#2699fb" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Email</tspan></text>
+      </g>
+      <g id="Input-4" data-name="Input" transform="translate(-48 -23)">
+        <g id="Retângulo_135-3" data-name="Retângulo 135" transform="translate(48 200)" fill="#fff" stroke="#bce0fd" stroke-width="1">
+          <rect width="279" height="48" stroke="none"/>
+          <rect x="0.5" y="0.5" width="278" height="47" fill="none"/>
+        </g>
+        <text id="_" data-name="●●●●●●●" transform="translate(68 229)" fill="#2699fb" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">●●●●●●●</tspan></text>
+        <text id="Password" transform="translate(48 192)" fill="#2699fb" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Password</tspan></text>
+      </g>
+    </g>
+    <g id="Personal_Information" data-name="Personal Information">
+      <g id="Input-5" data-name="Input" transform="translate(48 505)" clip-path="url(#clip-path-2)">
+        <g id="Input-6" data-name="Input" transform="translate(-48 -181)">
+          <g id="Retângulo_1408" data-name="Retângulo 1408" transform="translate(48 200)" fill="#fff" stroke="#bce0fd" stroke-width="1">
+            <rect width="279" height="48" stroke="none"/>
+            <rect x="0.5" y="0.5" width="278" height="47" fill="none"/>
+          </g>
+          <text id="_09_09_1987" data-name="09/09/1987" transform="translate(68 229)" fill="#2699fb" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">09/09/1987</tspan></text>
+          <text id="Date_of_Birth" data-name="Date of Birth" transform="translate(48 192)" fill="#2699fb" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Date of Birth</tspan></text>
+          <g id="Grupo_29" data-name="Grupo 29" transform="translate(301 219)">
+            <path id="Caminho_36" data-name="Caminho 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(-2)" fill="#2699fb"/>
+            <rect id="Retângulo_1467" data-name="Retângulo 1467" width="10" height="10" fill="none"/>
+          </g>
+        </g>
+        <g id="Input-7" data-name="Input" transform="translate(-48 -102)">
+          <g id="Retângulo_1409" data-name="Retângulo 1409" transform="translate(48 200)" fill="#fff" stroke="#bce0fd" stroke-width="1">
+            <rect width="279" height="48" stroke="none"/>
+            <rect x="0.5" y="0.5" width="278" height="47" fill="none"/>
+          </g>
+          <text id="United_States" data-name="United States" transform="translate(68 229)" fill="#2699fb" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">United States</tspan></text>
+          <text id="Country_Region" data-name="Country/Region" transform="translate(48 192)" fill="#2699fb" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">Country/Region</tspan></text>
+          <g id="Grupo_29-2" data-name="Grupo 29" transform="translate(301 219)">
+            <path id="Caminho_36-2" data-name="Caminho 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(-2)" fill="#2699fb"/>
+            <rect id="Retângulo_1467-2" data-name="Retângulo 1467" width="10" height="10" fill="none"/>
+          </g>
+        </g>
+        <g id="Input-8" data-name="Input" transform="translate(-48 -23)">
+          <g id="Retângulo_1410" data-name="Retângulo 1410" transform="translate(48 200)" fill="#fff" stroke="#bce0fd" stroke-width="1">
+            <rect width="279" height="48" stroke="none"/>
+            <rect x="0.5" y="0.5" width="278" height="47" fill="none"/>
+          </g>
+          <text id="California" transform="translate(68 229)" fill="#2699fb" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">California</tspan></text>
+          <text id="State" transform="translate(48 192)" fill="#2699fb" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">State</tspan></text>
+          <g id="Grupo_29-3" data-name="Grupo 29" transform="translate(301 219)">
+            <path id="Caminho_36-3" data-name="Caminho 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(-2)" fill="#2699fb"/>
+            <rect id="Retângulo_1467-3" data-name="Retângulo 1467" width="10" height="10" fill="none"/>
+          </g>
+        </g>
+        <g id="Input-9" data-name="Input" transform="translate(-48 56)">
+          <g id="Retângulo_1410-2" data-name="Retângulo 1410" transform="translate(48 200)" fill="#fff" stroke="#bce0fd" stroke-width="1">
+            <rect width="279" height="48" stroke="none"/>
+            <rect x="0.5" y="0.5" width="278" height="47" fill="none"/>
+          </g>
+          <text id="Roseville" transform="translate(68 229)" fill="#2699fb" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Roseville</tspan></text>
+          <text id="City" transform="translate(48 192)" fill="#2699fb" font-size="10" font-family="ArialMT, Arial"><tspan x="0" y="0">City</tspan></text>
+          <g id="Grupo_29-4" data-name="Grupo 29" transform="translate(301 219)">
+            <path id="Caminho_36-4" data-name="Caminho 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(-2)" fill="#2699fb"/>
+            <rect id="Retângulo_1467-4" data-name="Retângulo 1467" width="10" height="10" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <text id="Personal_Information-2" data-name="Personal Information" transform="translate(188 462)" fill="#2699fb" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-70.01" y="0">Personal Information</tspan></text>
+      <g id="Button" transform="translate(-62 332)">
+        <rect id="Retângulo_144" data-name="Retângulo 144" width="279" height="48" rx="4" transform="translate(110 596)" fill="#7f7f7f"/>
+        <text id="CONTINUE" transform="translate(250 624)" fill="#fff" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-26.111" y="0">CONTINUE</tspan></text>
+      </g>
+      <g id="input-10" data-name="input" transform="translate(31 -12)">
+        <g id="Retângulo_143" data-name="Retângulo 143" transform="translate(17 852)" fill="#fff" stroke="#e6e6e6" stroke-width="1">
+          <rect width="279" height="48" stroke="none"/>
+          <rect x="0.5" y="0.5" width="278" height="47" fill="none"/>
+        </g>
+        <text id="_497_Evergreen_Rd." data-name="497 Evergreen Rd." transform="translate(37 881)" fill="#7f7f7f" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">497 Evergreen Rd.</tspan></text>
+        <text id="Street" transform="translate(17 844)" fill="#b4b4b4" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Street</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

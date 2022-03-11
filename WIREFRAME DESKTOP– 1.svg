@@ -1,0 +1,378 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="4145" viewBox="0 0 1440 4145">
+  <defs>
+    <filter id="Retângulo_11" x="97" y="3449" width="369" height="291" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_11-2" x="97" y="3449" width="369" height="291" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_11-3" x="536" y="3449" width="369" height="291" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_11-4" x="536" y="3449" width="369" height="291" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_11-5" x="975" y="3449" width="369" height="291" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_11-6" x="975" y="3449" width="369" height="291" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4" x="261" y="628" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-2" x="261" y="628" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-8"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-3" x="267" y="2470" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-4" x="267" y="2470" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161" result="color-5"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-10"/>
+      <feComposite operator="in" in="color-5"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-5" x="552" y="3836" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-6" x="552" y="3836" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161" result="color-6"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-12"/>
+      <feComposite operator="in" in="color-6"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-7" x="570" y="1872" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-8" x="570" y="1872" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.161" result="color-7"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-14"/>
+      <feComposite operator="in" in="color-7"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-9" x="552" y="3205" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Retângulo_4-10" x="552" y="3205" width="336" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-16"/>
+      <feFlood flood-opacity="0.161" result="color-8"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-16"/>
+      <feComposite operator="in" in="color-8"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-WIREFRAME_DESKTOP_1">
+      <rect width="1440" height="4145"/>
+    </clipPath>
+  </defs>
+  <g id="WIREFRAME_DESKTOP_1" data-name="WIREFRAME DESKTOP– 1" clip-path="url(#clip-WIREFRAME_DESKTOP_1)">
+    <rect width="1440" height="4145" fill="#fff"/>
+    <g id="Footer_desktop" data-name="Footer desktop" transform="translate(0 3953)">
+      <g id="Footer_desktop-2" data-name="Footer desktop" transform="translate(123 61)">
+        <text id="_copyright_2022_ClipBoard_LLC" data-name="@copyright 2022  ClipBoard LLC" transform="translate(1060 30)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-132.948" y="0" xml:space="preserve">@copyright 2022  Clipboard LLC</tspan></text>
+        <text id="clipboard.fake_exmple.com" data-name="clipboard.fake@exmple.com" transform="translate(582 55)" fill="#4c5054" font-size="27" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-170.492" y="0">clipboard.fake@exmple.com</tspan></text>
+        <text id="Terms_conditions_Privacy_policy" data-name="Terms &amp; conditions / Privacy policy" transform="translate(1046 55)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-147.042" y="0">Terms &amp; Conditions / Privacy Policy</tspan></text>
+        <text id="FOOTER" transform="translate(32 22)" fill="#4c5054" font-size="22" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-32.373" y="0">Footer</tspan></text>
+        <g id="icon-twitter" transform="translate(8 50)">
+          <path id="icon-twitter-2" data-name="icon-twitter" d="M24,2.557a9.83,9.83,0,0,1-2.828.775A4.932,4.932,0,0,0,23.337.608,9.864,9.864,0,0,1,20.21,1.8a4.927,4.927,0,0,0-8.391,4.49A13.978,13.978,0,0,1,1.671,1.149,4.93,4.93,0,0,0,3.194,7.723,4.9,4.9,0,0,1,.965,7.107,4.927,4.927,0,0,0,4.914,12a4.935,4.935,0,0,1-2.224.084A4.928,4.928,0,0,0,7.29,15.5,9.9,9.9,0,0,1,0,17.54a13.94,13.94,0,0,0,7.548,2.212A13.925,13.925,0,0,0,21.543,5.106,10.025,10.025,0,0,0,24,2.557Z" transform="translate(0 -0.248)" fill="#4c545c"/>
+        </g>
+        <g id="icon-instagram" transform="translate(76 50)">
+          <path id="icon-instagram-2" data-name="icon-instagram" d="M12,2.163c3.2,0,3.584.012,4.85.07,3.252.148,4.771,1.691,4.919,4.919.058,1.265.069,1.645.069,4.849s-.012,3.584-.069,4.849c-.149,3.225-1.664,4.771-4.919,4.919-1.266.058-1.644.07-4.85.07s-3.584-.012-4.849-.07c-3.26-.149-4.771-1.7-4.919-4.92-.058-1.265-.07-1.644-.07-4.849s.013-3.583.07-4.849C2.381,3.924,3.9,2.38,7.151,2.232,8.417,2.175,8.8,2.163,12,2.163ZM12,0C8.741,0,8.333.014,7.053.072,2.695.272.273,2.69.073,7.052.014,8.333,0,8.741,0,12s.014,3.668.072,4.948c.2,4.358,2.618,6.78,6.98,6.98C8.333,23.986,8.741,24,12,24s3.668-.014,4.948-.072c4.354-.2,6.782-2.618,6.979-6.98C23.986,15.668,24,15.259,24,12s-.014-3.667-.072-4.947c-.2-4.354-2.617-6.78-6.979-6.98C15.668.014,15.259,0,12,0Zm0,5.838A6.162,6.162,0,1,0,18.162,12,6.162,6.162,0,0,0,12,5.838ZM12,16a4,4,0,1,1,4-4A4,4,0,0,1,12,16ZM18.406,4.155a1.441,1.441,0,1,0,1.44,1.44,1.44,1.44,0,0,0-1.44-1.44Z" fill="#4c545c"/>
+        </g>
+        <g id="icon-facebook" transform="translate(144 50)">
+          <path id="icon-facebook-2" data-name="icon-facebook" d="M22.675,0H1.325A1.325,1.325,0,0,0,0,1.325V22.676A1.325,1.325,0,0,0,1.325,24H12.82V14.706H9.692V11.084H12.82V8.413c0-3.1,1.893-4.788,4.659-4.788a25.657,25.657,0,0,1,2.8.143v3.24H18.356c-1.5,0-1.8.715-1.8,1.763v2.313h3.587l-.467,3.622h-3.12V24h6.116A1.324,1.324,0,0,0,24,22.675V1.325A1.325,1.325,0,0,0,22.675,0Z" fill="#4c545c"/>
+        </g>
+      </g>
+    </g>
+    <g id="Footer_nav_bar" data-name="Footer nav bar" transform="translate(0 -3)">
+      <g id="Nav_bar" data-name="Nav bar" transform="translate(725 83)">
+        <text id="Home" transform="translate(0 24)" fill="#4c5054" font-size="24" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Home</tspan></text>
+        <text id="About_us" data-name="About us" transform="translate(127 24)" fill="#4c5054" font-size="24" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="0" y="0">About us</tspan></text>
+        <text id="Download" transform="translate(291 24)" fill="#4c5054" font-size="24" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="0" y="0">Download</tspan></text>
+        <text id="Contact_us" data-name="Contact us" transform="translate(464 24)" fill="#4c5054" font-size="24" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="0" y="0">Contact us</tspan></text>
+      </g>
+    </g>
+    <g id="Retângulo_1" data-name="Retângulo 1" transform="translate(0 181)" fill="#4c5054" stroke="#707070" stroke-width="1">
+      <rect width="1440" height="631" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1439" height="630" fill="none"/>
+    </g>
+    <g id="Retângulo_9" data-name="Retângulo 9" transform="translate(0 2061)" fill="#4c5054" stroke="#707070" stroke-width="1">
+      <rect width="1440" height="631" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1439" height="630" fill="none"/>
+    </g>
+    <g id="Retângulo_10" data-name="Retângulo 10" transform="translate(0 3322)" fill="#4c5054" stroke="#707070" stroke-width="1">
+      <rect width="1440" height="631" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1439" height="630" fill="none"/>
+    </g>
+    <text id="TRy_NOW_" data-name="TRy NOW!" transform="translate(388 580)" fill="#fff" font-size="40" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600" letter-spacing="0.01em"><tspan x="-82.22" y="0">Try Now!</tspan></text>
+    <text id="Copy_and_paste" data-name="Copy and paste" transform="translate(204.5 1238.686)" fill="#4c5054" font-size="22" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-80.267" y="0">Copy And Paste</tspan></text>
+    <text id="Read_more_" data-name="Read more…" transform="translate(204.5 1277)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-49.428" y="0">Read More…</tspan></text>
+    <text id="Read_more_2" data-name="Read more…" transform="translate(722.5 1288)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-49.428" y="0">Read More…</tspan></text>
+    <text id="Read_more_3" data-name="Read more…" transform="translate(1170.5 1289)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-49.428" y="0">Read More…</tspan></text>
+    <text id="Available_for_images_too" data-name="Available for images too" transform="translate(1170.5 1239)" fill="#4c5054" font-size="22" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-145.486" y="0">AVAILABLE FOR IMAGES TOO</tspan></text>
+    <text id="Save_find_your_documents" data-name="Save &amp; find your documents" transform="translate(722.5 1238)" fill="#4c5054" font-size="22" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-144.122" y="0">Save &amp; Find Your Documents</tspan></text>
+    <text id="Features" transform="translate(720 944)" fill="#4c5054" font-size="37" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-76.757" y="0">Features</tspan></text>
+    <g id="Grupo_8" data-name="Grupo 8" transform="translate(-29 -55)">
+      <rect id="Retângulo_11-7" data-name="Retângulo 11" width="377" height="294" transform="translate(97 2847)" fill="#fff"/>
+      <text id="Read_more_4" data-name="Read more…" transform="translate(193 3108)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-49.428" y="0">Read More…</tspan></text>
+      <g id="logo-google" transform="translate(132 2965)">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam" transform="translate(12 -16)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="0" y="18">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="41">consetetur sadipscing elitr, sed </tspan><tspan x="0" y="64">diam nonumy eirmod tempor </tspan><tspan x="0" y="87">invidunt ut labore et dolore magna </tspan><tspan x="0" y="110">aliquyam</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_13" data-name="Grupo 13" transform="translate(-1 595)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, 1, -595)" filter="url(#Retângulo_11)">
+          <rect id="Retângulo_11-8" data-name="Retângulo 11" width="351" height="273" rx="25" transform="translate(106 3455)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 1, -595)" filter="url(#Retângulo_11-2)">
+          <rect id="Retângulo_11-9" data-name="Retângulo 11" width="351" height="273" rx="25" transform="translate(106 3455)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Suzane_A._Grafic_design" data-name="Suzane A.
+Grafic design" transform="translate(283 3070)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-41.679" y="0">Suzane A.</tspan><tspan x="-55.998" y="23">Grafic design</tspan></text>
+      <g id="logo-google-2" data-name="logo-google" transform="translate(118 2921)">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam-2" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam" transform="translate(15 -10)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="35.308" y="18">Lorem ipsum dolor sit amet, </tspan><tspan x="20.422" y="41">consetetur sadipscing elitr, sed </tspan><tspan x="31.51" y="64">diam nonumy eirmod tempor </tspan><tspan x="8.191" y="87">invidunt ut labore et dolore magna </tspan><tspan x="111.736" y="110">aliquyam</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_13-2" data-name="Grupo 13" transform="translate(438 595)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -438, -595)" filter="url(#Retângulo_11-3)">
+          <rect id="Retângulo_11-10" data-name="Retângulo 11" width="351" height="273" rx="25" transform="translate(545 3455)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -438, -595)" filter="url(#Retângulo_11-4)">
+          <rect id="Retângulo_11-11" data-name="Retângulo 11" width="351" height="273" rx="25" transform="translate(545 3455)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="John_W._Writer_" data-name="John W.
+Writer
+" transform="translate(283 3070)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-33.462" y="0">John W.</tspan><tspan x="-25.389" y="23">Writer</tspan><tspan x="0" y="46"></tspan></text>
+      <g id="logo-google-3" data-name="logo-google" transform="translate(118 2921)">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam-3" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam" transform="translate(15 -10)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="35.308" y="18">Lorem ipsum dolor sit amet, </tspan><tspan x="20.422" y="41">consetetur sadipscing elitr, sed </tspan><tspan x="31.51" y="64">diam nonumy eirmod tempor </tspan><tspan x="8.191" y="87">invidunt ut labore et dolore magna </tspan><tspan x="111.736" y="110">aliquyam</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_13-3" data-name="Grupo 13" transform="translate(877 595)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -877, -595)" filter="url(#Retângulo_11-5)">
+          <rect id="Retângulo_11-12" data-name="Retângulo 11" width="351" height="273" rx="25" transform="translate(984 3455)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -877, -595)" filter="url(#Retângulo_11-6)">
+          <rect id="Retângulo_11-13" data-name="Retângulo 11" width="351" height="273" rx="25" transform="translate(984 3455)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Joana_G._Barista_" data-name="Joana G.
+Barista " transform="translate(283 3070)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-37.008" y="0">Joana G.</tspan><tspan x="-33.165" y="23">Barista </tspan></text>
+      <g id="logo-google-4" data-name="logo-google" transform="translate(118 2921)">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam-4" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam" transform="translate(15 -10)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="35.308" y="18">Lorem ipsum dolor sit amet, </tspan><tspan x="20.422" y="41">consetetur sadipscing elitr, sed </tspan><tspan x="31.51" y="64">diam nonumy eirmod tempor </tspan><tspan x="8.191" y="87">invidunt ut labore et dolore magna </tspan><tspan x="111.736" y="110">aliquyam</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_9" data-name="Grupo 9" transform="translate(435 -55)">
+      <rect id="Retângulo_11-14" data-name="Retângulo 11" width="377" height="294" transform="translate(97 2847)" fill="#fff"/>
+      <text id="Read_more_5" data-name="Read more…" transform="translate(193 3108)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-49.428" y="0">Read More…</tspan></text>
+      <g id="logo-google-5" data-name="logo-google" transform="translate(132 2965)">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam-5" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam" transform="translate(12 -16)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="0" y="18">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="41">consetetur sadipscing elitr, sed </tspan><tspan x="0" y="64">diam nonumy eirmod tempor </tspan><tspan x="0" y="87">invidunt ut labore et dolore magna </tspan><tspan x="0" y="110">aliquyam</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_10" data-name="Grupo 10" transform="translate(899 -55)">
+      <rect id="Retângulo_11-15" data-name="Retângulo 11" width="377" height="294" transform="translate(97 2847)" fill="#fff"/>
+      <text id="Read_more_6" data-name="Read more…" transform="translate(193 3108)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-49.428" y="0">Read More…</tspan></text>
+      <g id="logo-google-6" data-name="logo-google" transform="translate(132 2965)">
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam-6" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam" transform="translate(12 -16)" fill="#4c5054" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="0" y="18">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="41">consetetur sadipscing elitr, sed </tspan><tspan x="0" y="64">diam nonumy eirmod tempor </tspan><tspan x="0" y="87">invidunt ut labore et dolore magna </tspan><tspan x="0" y="110">aliquyam</tspan></text>
+      </g>
+    </g>
+    <text id="NO_MORE_PAIN_USE_CLIPBOARD_FOR_COPY_PASTE_EVERYTHING_" data-name="NO MORE PAIN, USE CLIPBOARD FOR COPY &amp; PASTE
+EVERYTHING!" transform="translate(720 3787)" fill="#fff" font-size="18" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="-189.459" y="0">No More Pain, Use Clipboard For Copy &amp; Paste</tspan><tspan x="-46.782" y="23">Everything!</tspan></text>
+    <g id="Elipse_272" data-name="Elipse 272" transform="translate(111 53)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="44.5" cy="42" rx="44.5" ry="42" stroke="none"/>
+      <ellipse cx="44.5" cy="42" rx="44" ry="41.5" fill="none"/>
+    </g>
+    <text id="Logo" transform="translate(153 103)" fill="#4c5054" font-size="24" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-32.232" y="0">LOGO</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit_sed_do_eiusmod_tempor_incididunt_ut_ero_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_poriti_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_ir" data-name="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco poriti laboris nisi ut aliquip ex ea commodo consequat. Duis aute ir" transform="translate(90 284)" fill="#fff" font-size="58" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="27.634" y="58">Lorem ipsum dolor sit </tspan><tspan x="75.803" y="131">amet, consectetur </tspan><tspan x="15.947" y="204">adipisicing elit, sed do </tspan></text>
+    <g id="Photos" transform="translate(949.985 332.222)">
+      <rect id="Retângulo_549" data-name="Retângulo 549" transform="translate(-0.43 114.652)" fill="none"/>
+      <path id="Caminho_148" data-name="Caminho 148" d="M0,0S0,.307,0,.614c0,.614,0,.921,0,1.842V25.478c0,.614,0,1.228,0,1.535s0,.614,0,.614H0s0-.307,0-.614c0-.614,0-.921,0-1.842V2.456C0,1.842,0,1.228,0,.921Q0,0,0,0ZM0,5.525Q0,4.6,0,4.6s0,.307,0,.921S0,7.06,0,7.981s0,1.842,0,2.456,0,.921,0,.921,0-.307,0-.921S0,8.9,0,7.981,0,6.139,0,5.525Zm0,17.5v0Z" transform="translate(1.549 265.288)" fill="#fff"/>
+      <rect id="Retângulo_549-2" data-name="Retângulo 549" width="74.795" height="74.795" transform="translate(3.613 -2.222)" fill="none"/>
+      <path id="Caminho_148-2" data-name="Caminho 148" d="M287.936,0c5.142,0,10.283,3.153,12.854,6.306,5.142,6.306,7.713,9.459,7.713,18.917V261.689c0,6.306-2.571,12.612-5.142,15.764-5.142,3.153-7.713,6.306-15.425,6.306H20.567c-7.713,0-10.283-3.153-15.425-6.306C2.571,271.148,0,267.995,0,258.536V25.223C0,18.917,2.571,12.612,5.142,9.459,10.283,3.153,12.854,0,20.567,0ZM87.409,56.752a27.09,27.09,0,0,0-41.134,0c-5.142,6.306-7.713,15.764-7.713,25.223s2.571,18.917,7.713,25.223a27.09,27.09,0,0,0,41.134,0c5.142-6.306,7.713-15.764,7.713-25.223S92.551,63.058,87.409,56.752ZM269.94,236.466,192.814,94.586,123.4,204.937,77.126,163.95,38.563,236.466Z" transform="translate(4.175 9.156)" fill="#fff"/>
+    </g>
+    <g id="Button_-_write" data-name="Button - write" transform="translate(270 634)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -270, -634)" filter="url(#Retângulo_4)">
+          <rect id="Retângulo_4-11" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(270 634)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -270, -634)" filter="url(#Retângulo_4-2)">
+          <rect id="Retângulo_4-12" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(270 634)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Buttom" transform="translate(96.5 55.5)" fill="#4c5054" font-size="36" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="0" y="0">Buttom</tspan></text>
+    </g>
+    <g id="Button_-_write-2" data-name="Button - write" transform="translate(276 2476)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -276, -2476)" filter="url(#Retângulo_4-3)">
+          <rect id="Retângulo_4-13" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(276 2476)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -276, -2476)" filter="url(#Retângulo_4-4)">
+          <rect id="Retângulo_4-14" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(276 2476)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Buttom-2" data-name="Buttom" transform="translate(96.5 55.5)" fill="#4c5054" font-size="36" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="0" y="0">Buttom</tspan></text>
+    </g>
+    <g id="Button_-_write-3" data-name="Button - write" transform="translate(561 3842)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -561, -3842)" filter="url(#Retângulo_4-5)">
+          <rect id="Retângulo_4-15" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(561 3842)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -561, -3842)" filter="url(#Retângulo_4-6)">
+          <rect id="Retângulo_4-16" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(561 3842)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Buttom-3" data-name="Buttom" transform="translate(96.5 55.5)" fill="#4c5054" font-size="36" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="0" y="0">Buttom</tspan></text>
+    </g>
+    <g id="Folder" transform="translate(124.5 1025.219)">
+      <path id="Caminho_178" data-name="Caminho 178" d="M0,111.569V10.046a10.44,10.44,0,0,1,3.173-7.4A10.052,10.052,0,0,1,10.046,0H68.739a6,6,0,0,1,4.23,1.586,7.109,7.109,0,0,1,3.173,3.7l5.288,14.805h71.383a10.44,10.44,0,0,1,7.4,3.173,9.6,9.6,0,0,1,3.173,7.4V112.1a10.44,10.44,0,0,1-3.173,7.4,9.6,9.6,0,0,1-7.4,3.173H10.046a10.44,10.44,0,0,1-7.4-3.173C1.058,116.857,0,114.742,0,111.569Z" transform="translate(0 16.277)" fill="#4c5054"/>
+      <rect id="Retângulo_1447" data-name="Retângulo 1447" width="154.781" height="154.781" transform="translate(0.34)" fill="none"/>
+    </g>
+    <g id="Folder-2" data-name="Folder" transform="translate(1088.806 1036.219)">
+      <path id="Caminho_178-2" data-name="Caminho 178" d="M0,111.569V10.046a10.44,10.44,0,0,1,3.173-7.4A10.052,10.052,0,0,1,10.046,0H68.739a6,6,0,0,1,4.23,1.586,7.109,7.109,0,0,1,3.173,3.7l5.288,14.805h71.383a10.44,10.44,0,0,1,7.4,3.173,9.6,9.6,0,0,1,3.173,7.4V112.1a10.44,10.44,0,0,1-3.173,7.4,9.6,9.6,0,0,1-7.4,3.173H10.046a10.44,10.44,0,0,1-7.4-3.173C1.058,116.857,0,114.742,0,111.569Z" transform="translate(0 16.277)" fill="#4c5054"/>
+      <rect id="Retângulo_1447-2" data-name="Retângulo 1447" width="154.781" height="154.781" transform="translate(0.34)" fill="none"/>
+    </g>
+    <g id="Photos-2" data-name="Photos" transform="translate(658.507 1027.44)">
+      <rect id="Retângulo_549-3" data-name="Retângulo 549" transform="translate(-0.43 53.072)" fill="none"/>
+      <path id="Caminho_148-3" data-name="Caminho 148" d="M0,0S0,.145,0,.29c0,.29,0,.436,0,.871V12.054c0,.29,0,.581,0,.726s0,.29,0,.29H0s0-.145,0-.29c0-.29,0-.436,0-.871V1.162c0-.29,0-.581,0-.726Q0,0,0,0ZM0,2.614q0-.436,0-.436s0,.145,0,.436S0,3.34,0,3.776s0,.871,0,1.162,0,.436,0,.436,0-.145,0-.436,0-.726,0-1.162S0,2.9,0,2.614Zm0,8.278v0Z" transform="translate(0.506 124.338)" fill="#4c5054"/>
+      <rect id="Retângulo_549-4" data-name="Retângulo 549" width="35.386" height="35.386" transform="translate(1.483 -2.222)" fill="none"/>
+      <path id="Caminho_148-4" data-name="Caminho 148" d="M136.223,0A8.492,8.492,0,0,1,142.3,2.983c2.433,2.983,3.649,4.475,3.649,8.95V123.806a12.856,12.856,0,0,1-2.433,7.458c-2.433,1.492-3.649,2.983-7.3,2.983H9.73c-3.649,0-4.865-1.492-7.3-2.983C1.216,128.281,0,126.789,0,122.314V11.933A12.856,12.856,0,0,1,2.433,4.475C4.865,1.492,6.081,0,9.73,0ZM41.353,26.849a12.816,12.816,0,0,0-19.46,0c-2.433,2.983-3.649,7.458-3.649,11.933s1.216,8.95,3.649,11.933a12.816,12.816,0,0,0,19.46,0C43.786,47.732,45,43.257,45,38.783S43.786,29.833,41.353,26.849Zm86.356,85.023L91.221,44.749,58.381,96.956,36.488,77.565,18.244,111.873Z" transform="translate(1.749 3.161)" fill="#4c5054"/>
+    </g>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur." data-name="Lorem ipsum dolor sit amet, consetetur." transform="translate(514 1402)" fill="#4c5054" font-size="37" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="16.801" y="37">Lorem ipsum dolor sit </tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur.-2" data-name="Lorem ipsum dolor sit amet, consetetur." transform="translate(101 2832)" fill="#4c5054" font-size="37" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="9.093" y="37">Lorem ipsum </tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur.-3" data-name="Lorem ipsum dolor sit amet, consetetur." transform="translate(573 2832)" fill="#4c5054" font-size="37" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="9.093" y="37">Lorem ipsum </tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur.-4" data-name="Lorem ipsum dolor sit amet, consetetur." transform="translate(1030 2832)" fill="#4c5054" font-size="37" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="9.093" y="37">Lorem ipsum </tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur.-5" data-name="Lorem ipsum dolor sit amet, consetetur." transform="translate(505 2747)" fill="#4c5054" font-size="37" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="25.301" y="37">Lorem ipsum dolor sit </tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur.-6" data-name="Lorem ipsum dolor sit amet, consetetur." transform="translate(579 3132)" fill="#4c5054" font-size="40" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="12.52" y="40">Lorem ipsum </tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur.-7" data-name="Lorem ipsum dolor sit amet, consetetur." transform="translate(587 3370)" fill="#fff" font-size="40" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="12.52" y="40">Lorem ipsum </tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit_sed_do_eiusmod_tempor_incididunt_ut_ero_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_poriti_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_ir-2" data-name="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco poriti laboris nisi ut aliquip ex ea commodo consequat. Duis aute ir" transform="translate(288 1496)" fill="#4c5054" font-size="34" font-family="BaiJamjuree-Regular, Bai Jamjuree"><tspan x="2.817" y="34">Lorem ipsum dolor sit amet, consectetur adipisicing elit, </tspan><tspan x="50.519" y="77">sed do eiusmod tempor incididunt ut ero labore et </tspan><tspan x="35.848" y="120">dolore magna aliqua. Ut enim ad minim veniam, quis </tspan><tspan x="4.432" y="163">nostrud exercitation ullamco poriti laboris nisi ut aliquip </tspan><tspan x="45.589" y="206">ex ea commodo consequat. Duis aute irure dolor in </tspan><tspan x="45.759" y="249">reprehenderit in uienply voluptate velit esse cillum </tspan><tspan x="11.827" y="292">dolore eu fugiat nulla pariatur. Excepteur sint occaecat </tspan></text>
+    <g id="Button_-_write-4" data-name="Button - write" transform="translate(579 1878)">
+      <g id="Grupo_4" data-name="Grupo 4">
+        <g data-type="innerShadowGroup">
+          <g transform="matrix(1, 0, 0, 1, -579, -1878)" filter="url(#Retângulo_4-7)">
+            <rect id="Retângulo_4-17" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(579 1878)" fill="#4c5054"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -579, -1878)" filter="url(#Retângulo_4-8)">
+            <rect id="Retângulo_4-18" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(579 1878)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <text id="Buttom-4" data-name="Buttom" transform="translate(103 54)" fill="#fff" font-size="32" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="0" y="0">Buttom</tspan></text>
+    </g>
+    <g id="Button_-_write-5" data-name="Button - write" transform="translate(561 3211)">
+      <g id="Grupo_4-2" data-name="Grupo 4">
+        <g data-type="innerShadowGroup">
+          <g transform="matrix(1, 0, 0, 1, -561, -3211)" filter="url(#Retângulo_4-9)">
+            <rect id="Retângulo_4-19" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(561 3211)" fill="#4c5054"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -561, -3211)" filter="url(#Retângulo_4-10)">
+            <rect id="Retângulo_4-20" data-name="Retângulo 4" width="318" height="84" rx="25" transform="translate(561 3211)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <text id="Buttom-5" data-name="Buttom" transform="translate(103 54)" fill="#fff" font-size="32" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="0" y="0">Buttom</tspan></text>
+    </g>
+    <g id="Grupo_106" data-name="Grupo 106" transform="translate(113 190)">
+      <g id="Retângulo_13" data-name="Retângulo 13" transform="translate(101 1950)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="177" height="69" stroke="none"/>
+        <rect x="0.5" y="0.5" width="176" height="68" fill="none"/>
+      </g>
+      <text id="Logo_partenaires" data-name="Logo partenaires" transform="translate(188 1991)" fill="#4c5054" font-size="16" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-77.368" y="0">LOGO PARTENAIRES</tspan></text>
+    </g>
+    <g id="Grupo_107" data-name="Grupo 107" transform="translate(537 190)">
+      <g id="Retângulo_13-2" data-name="Retângulo 13" transform="translate(101 1950)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="177" height="69" stroke="none"/>
+        <rect x="0.5" y="0.5" width="176" height="68" fill="none"/>
+      </g>
+      <text id="Logo_partenaires-2" data-name="Logo partenaires" transform="translate(188 1991)" fill="#4c5054" font-size="16" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-77.368" y="0">LOGO PARTENAIRES</tspan></text>
+    </g>
+    <g id="Grupo_108" data-name="Grupo 108" transform="translate(961 196)">
+      <g id="Retângulo_13-3" data-name="Retângulo 13" transform="translate(101 1950)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="177" height="69" stroke="none"/>
+        <rect x="0.5" y="0.5" width="176" height="68" fill="none"/>
+      </g>
+      <text id="Logo_partenaires-3" data-name="Logo partenaires" transform="translate(188 1991)" fill="#4c5054" font-size="16" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-77.368" y="0">LOGO PARTENAIRES</tspan></text>
+    </g>
+    <g id="Grupo_109" data-name="Grupo 109" transform="translate(334 325)">
+      <g id="Retângulo_13-4" data-name="Retângulo 13" transform="translate(101 1950)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="177" height="69" stroke="none"/>
+        <rect x="0.5" y="0.5" width="176" height="68" fill="none"/>
+      </g>
+      <text id="Logo_partenaires-4" data-name="Logo partenaires" transform="translate(188 1991)" fill="#4c5054" font-size="16" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-77.368" y="0">LOGO PARTENAIRES</tspan></text>
+    </g>
+    <g id="Grupo_110" data-name="Grupo 110" transform="translate(764 325)">
+      <g id="Retângulo_13-5" data-name="Retângulo 13" transform="translate(101 1950)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="177" height="69" stroke="none"/>
+        <rect x="0.5" y="0.5" width="176" height="68" fill="none"/>
+      </g>
+      <text id="Logo_partenaires-5" data-name="Logo partenaires" transform="translate(188 1991)" fill="#4c5054" font-size="16" font-family="BaiJamjuree-SemiBold, Bai Jamjuree" font-weight="600"><tspan x="-77.368" y="0">LOGO PARTENAIRES</tspan></text>
+    </g>
+    <g id="Photos-3" data-name="Photos" transform="translate(953.93 2406.222)">
+      <rect id="Retângulo_549-5" data-name="Retângulo 549" transform="translate(-0.43 88.385)" fill="none"/>
+      <path id="Caminho_148-5" data-name="Caminho 148" d="M0,0S0,.238,0,.476C0,.952,0,1.19,0,1.9V19.752c0,.476,0,.952,0,1.19s0,.476,0,.476H0s0-.238,0-.476c0-.476,0-.714,0-1.428V1.9c0-.476,0-.952,0-1.19Q0,0,0,0ZM0,4.284Q0,3.57,0,3.57s0,.238,0,.714,0,1.19,0,1.9,0,1.428,0,1.9,0,.714,0,.714,0-.238,0-.714,0-1.19,0-1.9S0,4.76,0,4.284ZM0,17.848v0Z" transform="translate(1.104 205.166)" fill="#fff"/>
+      <rect id="Retângulo_549-6" data-name="Retângulo 549" width="57.985" height="57.985" transform="translate(2.705 -2.222)" fill="none"/>
+      <path id="Caminho_148-6" data-name="Caminho 148" d="M223.223,0a13.915,13.915,0,0,1,9.965,4.889c3.986,4.889,5.979,7.333,5.979,14.666V202.875a21.066,21.066,0,0,1-3.986,12.221c-3.986,2.444-5.979,4.889-11.958,4.889H15.945c-5.979,0-7.972-2.444-11.958-4.889C1.993,210.208,0,207.764,0,200.431V19.554A21.066,21.066,0,0,1,3.986,7.333C7.972,2.444,9.965,0,15.945,0ZM67.764,44a21,21,0,0,0-31.889,0C31.889,48.886,29.9,56.218,29.9,63.551s1.993,14.666,5.979,19.554a21,21,0,0,0,31.889,0c3.986-4.889,5.979-12.221,5.979-19.554S71.75,48.886,67.764,44ZM209.272,183.321,149.48,73.328l-53.813,85.55L59.792,127.1,29.9,183.321Z" transform="translate(3.14 6.599)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
